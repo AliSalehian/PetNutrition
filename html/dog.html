@@ -1,0 +1,63 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../css/dog.css">
+    <title>Dog</title>
+</head>
+<body>
+
+    <div class="container">
+        <form action="action_page.php">
+
+          <div class="row">
+            <div class="col-25">
+              <label for="breed">Breed</label>
+            </div>
+            <div class="col-75">
+              <select id="breed" name="breed">
+                <option value="australia">Afador</option>
+                <option value="canada">Affenhuahua</option>
+                <option value="usa">Beagle</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-25">
+              <label for="age">Age</label>
+            </div>
+            <div class="col-75">
+              <input type="text" id="age" name="age" autocomplete="off" placeholder="Your pet age..">
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-25">
+              <label for="weight">Weight</label>
+            </div>
+            <div class="col-75">
+              <input type="text" id="weight" name="weight" autocomplete="off" placeholder="Your pet weight..">
+            </div>
+          </div>
+          
+          <div class="row">
+            <div class="col-25">
+              <label for="bcs">BCS</label>
+            </div>
+            <div class="col-75">
+              <input type="text" id="bcs" name="bcs" autocomplete="off" placeholder="Your pet BCS (body condition score)..">
+            </div>
+          </div>
+
+          <div class="row">
+            <input type="submit" value="Submit">
+          </div>
+
+        </form>
+      </div>
+
+</body>
+</html>
