@@ -20,5 +20,17 @@ General
 Front
 =====
 
+Static
+------
+
+Responsive
+----------
+
 Back
 ====
+
+- Design DB 
+-- Dry food
+- Implement DB
+
+- Connect DB
