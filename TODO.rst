@@ -1,4 +1,11 @@
+.. |ss| raw:: html
 
+    <strike>
+
+.. |se| raw:: html
+
+    </strike>
+    
 ==============================
 PetNutrition TODOs and Roadmap
 ==============================
@@ -6,7 +13,7 @@ PetNutrition TODOs and Roadmap
 General
 ======
 
-- ~~Have a meeting about the idea
+- |ss|Have a meeting about the idea|se|
 - Searching for proper data
 - Finding Formula
 
