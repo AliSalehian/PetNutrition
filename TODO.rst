@@ -35,7 +35,7 @@ Design DB
 - Dry food
 - Compote food
 
-mplement DB
+Implement DB
 ------
 
 Connect DB
