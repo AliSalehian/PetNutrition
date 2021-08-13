@@ -21,7 +21,7 @@ Developer Notes
 Roadmap, Todos and Issues
 -------------------------
 
-See https://github.com/AliSalehian/PetNutrition/edit/main/TODO.rst
+See https://github.com/AliSalehian/PetNutrition/blob/main/TODO.rst
 
 Contribution
 ============
