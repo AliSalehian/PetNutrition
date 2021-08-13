@@ -14,9 +14,10 @@ General
 ======
 
 - |ss| Have a meeting about the idea\ |se|
-- Scraping / API dataset of food's nutrition table
-
-
+- Django tutorial
+- Scraping / API dataset of food's nutrition table ()
+- Finding formula
+- Next meeting tuesday 17 August 2021
 Front
 =====
 
