@@ -29,6 +29,6 @@ Responsive
 Back
 ====
 
--Design DB
--Implement DB
--Connect DB
+- Design DB
+- Implement DB
+- Connect DB
