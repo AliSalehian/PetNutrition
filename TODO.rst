@@ -13,7 +13,7 @@ PetNutrition TODOs and Roadmap
 General
 ======
 
-- |ss|Have a meeting about the idea|se|
+- |ss| Have a meeting about the idea\ |se|
 - Searching for proper data
 - Finding Formula
 
