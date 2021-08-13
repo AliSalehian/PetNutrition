@@ -20,5 +20,15 @@ General
 Front
 =====
 
+Static
+------
+
+Responsive
+----------
+
 Back
 ====
+
+-Design DB
+-Implement DB
+-Connect DB
