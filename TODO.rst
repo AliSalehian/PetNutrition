@@ -14,8 +14,8 @@ General
 ======
 
 - |ss| Have a meeting about the idea\ |se|
-- Searching for proper data
-- Finding Formula
+- Scraping / API dataset of food's nutrition table
+
 
 Front
 =====
