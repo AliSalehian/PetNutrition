@@ -29,8 +29,14 @@ Responsive
 Back
 ====
 
-- Design DB 
--- Dry food
-- Implement DB
+Design DB 
+------
 
-- Connect DB
+- Dry food
+- Compote food
+
+mplement DB
+------
+
+Connect DB
+------
