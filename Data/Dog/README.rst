@@ -1,3 +1,5 @@
+ALLERGIES(https://www.petfoodinstitute.org/nosetotail/)
+
 =========
 Dog Foods
 =========
